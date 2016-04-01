@@ -1,0 +1,7 @@
+.DS_Store
+*.swp
+node_moudles
+_locales
+chrome/css/*.css
+chrome/js/*.js
+chrome/html/*.html
